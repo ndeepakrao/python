@@ -1,7 +1,7 @@
 # pygui-s3bucket-download
 
 
-This is a fully functioning pythin application develped using :
+This is a fully functioning pythin application developed using :
 
 - PySimpleGUI 
 - boto3
