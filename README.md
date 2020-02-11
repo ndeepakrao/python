@@ -1,4 +1,15 @@
-# python
-Python tools and scripts 
+# tesseract-ocr-flight
 
-- [pygui-s3bucket-download](https://github.com/ndeepakrao/python/tree/pygui-s3bucket-download): This is a fully functioning python plication that lets you see the list of s3 object present in a bucket and download them.
+go to [home](https://github.com/ndeepakrao/python/blob/master/README.md)
+
+-STILL IN BETA STAGE
+
+This script is developed using packages like:
+
+- pytesseract
+- numpy
+- geotext
+
+and few others.
+
+It can be used to read and extract text from an image. More specifically, the script reads and extracts to and from locations, timings anda dates of a flight journey.
